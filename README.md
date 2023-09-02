@@ -7,11 +7,10 @@
 - 💌 Contacto: **vazquezgrillo.santiago@gmail.com**
 ---
 
-### Últimas entradas del blog
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
+
 
 ### Redes sociales 🌐
 
